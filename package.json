@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Winyumi/github-package-test/issues"
   },
-  "homepage": "https://github.com/Winyumi/github-package-test#readme"
+  "homepage": "https://github.com/Winyumi/github-package-test#readme",
+  "publishConfig": {
+    "@winyumi:registry": "https://npm.pkg.github.com"
+  }
 }
